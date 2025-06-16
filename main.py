@@ -83,7 +83,7 @@ def show_license_window(lancer_app):
 
     def valider_code():
         code = entry_code.get().strip()
-        if code not in ["1234", "bentech"]:
+        if code not in ["1234", "Mukulubeny13@"]:
             tries[0] += 1
             restant = MAX_TRIES - tries[0]
             essais_restants.configure(text=f"Essais restants : {restant}")

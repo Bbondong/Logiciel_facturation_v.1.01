@@ -1,0 +1,25 @@
+POLITIQUE DE CONFIDENTIALITÉ – LOGICIEL DE FACTURATION BEN TECH
+
+En installant et en utilisant ce logiciel, vous acceptez les termes de cette politique de confidentialité.
+
+1. COLLECTE DES DONNÉES
+Aucune donnée personnelle (nom, numéro, adresse, etc.) n’est collectée à votre insu. Les données saisies dans le logiciel restent strictement locales et ne sont transmises à aucun serveur externe.
+
+2. UTILISATION DES DONNÉES
+Les informations enregistrées via ce logiciel sont utilisées uniquement pour les besoins de facturation et de gestion interne. Ben Tech ne consulte, ne stocke, ni ne transfère vos données personnelles.
+
+3. SÉCURITÉ
+Ben Tech s’engage à fournir un logiciel sécurisé. Toutefois, l’utilisateur est responsable de la protection de son système et de ses fichiers.
+
+4. RESPONSABILITÉ
+Ben Tech décline toute responsabilité en cas de perte de données causée par une mauvaise manipulation, un dysfonctionnement matériel ou une mauvaise utilisation du logiciel.
+
+5. DROITS D’EXPLOITATION ET DE MODIFICATION
+Ben Tech se réserve le droit d’exploiter, d’améliorer ou de modifier ce logiciel à tout moment sans notification préalable. Toute évolution importante pourra être publiée via une mise à jour officielle. L’utilisateur accepte que l’éditeur puisse intégrer, retirer ou ajuster des fonctionnalités selon les besoins techniques ou légaux.
+
+6. MISE À JOUR
+Cette politique peut être modifiée à tout moment par Ben Tech. L’utilisateur est invité à consulter régulièrement les termes affichés sur les supports officiels de Ben Tech.
+
+EN INSTALLANT CE LOGICIEL, VOUS ACCEPTEZ CETTE POLITIQUE DE CONFIDENTIALITÉ.
+
+Ben Tech

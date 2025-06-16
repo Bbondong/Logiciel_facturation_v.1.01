@@ -8,11 +8,13 @@ datas = [
     ('data', 'data'),
     ('src', 'src'),
     ('database.py', '.'),
+    ('AccessDatabaseEngine_X64.exe', '.'),
+    ('politique.txt', '.'), 
 ]
 
 a = Analysis(
-    ['main.py'],
-    pathex=[r'D:\Beny_TFC\Log_Facturation'],  # adapte ce chemin
+    ['main.py'],  # ou facture.py selon ton point d'entrée
+    pathex=[r'D:\Beny_TFC\Log_Facturation'],  # adapte ce chemin à ton projet
     binaries=[],
     datas=datas,
     hiddenimports=[],
@@ -34,6 +36,8 @@ exe = EXE(
     strip=False,
     upx=True,
     console=False,
+    icon='Asset/icon.ico'
+
 )
 
 coll = COLLECT(
